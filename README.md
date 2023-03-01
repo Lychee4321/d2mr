@@ -1,5 +1,5 @@
 # d2mr
-d2mr for lagacy diablo 2
+d2mr for legacy diablo 2
 
 ## if not work
 
