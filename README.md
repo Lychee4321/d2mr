@@ -5,6 +5,13 @@ d2mr for legacy diablo 2
 
 **You have to press the reveal button every time the act changes !**
 
+## useage
+
+1. open the program
+
+![](https://user-images.githubusercontent.com/87593151/222025077-34a82041-8525-40f4-9ee5-6810be9923de.png)
+
+2. press the 000000 Diablo II and click the reveal
 
 ## if not work
 
