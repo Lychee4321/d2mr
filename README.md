@@ -5,7 +5,7 @@ d2mr for legacy diablo 2 (II)
 
 **You have to press the reveal button every time the act changes !**
 
-## useage
+## Usage
 
 1. open the program
 
@@ -13,7 +13,7 @@ d2mr for legacy diablo 2 (II)
 
 2. press the 000000 Diablo II and click the reveal
 
-## if not work
+## If not work
 
 1. go to d2mr's property and change the compatibility mode **Windows XP (Service Pack 3)**
 
